@@ -1,0 +1,6 @@
+.idea/
+.idea/*
+.selenium-template/
+.selenium-template/*
+.target/
+.selenium-template.iml
